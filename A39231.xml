@@ -1,0 +1,741 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevv Englands first fruits in respect, first of the conversion of some, conviction of divers, preparation of sundry of the Indians, 2. of the progresse of learning in the colledge at Cambridge in Massacusets Bay : with divers other speciall matters concerning the country.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39231</idno>
+            <idno type="STC">Wing E519</idno>
+            <idno type="STC">ESTC R1260</idno>
+            <idno type="EEBO-CITATION">12128542</idno>
+            <idno type="OCLC">ocm 12128542</idno>
+            <idno type="VID">54650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54650)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E87, no 2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevv Englands first fruits in respect, first of the conversion of some, conviction of divers, preparation of sundry of the Indians, 2. of the progresse of learning in the colledge at Cambridge in Massacusets Bay : with divers other speciall matters concerning the country.</title>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. O. and G. D. for Henry Overton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first of a series of 11 pamphlets often known as the "Eliot tracts," issued by persons in England interested in the work of converting the New England Indians. Later numbers were published by the Corporation for propagation of the gospel among the heathen natives of New England, incorporated 1649.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harvard College (1636-1780) --  History.</term>
+               <term>Indians of North America --  New England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54650:1" rendition="simple:additions"/>
+            <p>NEW ENGLANDS FIRST FRUITS; IN RESPECT, Firſt of the Converſion of ſome, of the <hi>Indians.</hi>
+            </p>
+            <p>Firſt of the Conviction of divers, of the <hi>Indians.</hi>
+            </p>
+            <p>Firſt of the Preparation of ſundry of the <hi>Indians.</hi>
+            </p>
+            <p n="2">2. Of the progreſſe of <hi>Learning,</hi> in the <hi>Colledge</hi> at CAMBRIDGE in <hi>Maſſacuſets</hi> Bay.</p>
+            <p>WITH Divers other ſpeciall Matters concerning that <hi>Countrey.</hi>
+            </p>
+            <p>Publiſhed by the inſtant requeſt of ſundry Friends, who deſire to be ſatisfied in theſe points by many <hi>New-England</hi> Men who are here preſent, and were eye or eare-witneſſes of the ſame.</p>
+            <q>
+               <p>
+                  <hi>Who hath deſpiſed the Day of ſmall things.</hi>
+               </p>
+               <bibl>Zach. 4.10.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>If thou wert pure and upright, ſurely now he will awake for thee: — And though thy beginnings be ſmall, thy latter end ſhall greatly enereaſe.</hi>
+               </p>
+               <bibl>Iob. 86, 7.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by R. O. and <hi>G. D.</hi> for <hi>Henry Overton,</hi> and are to ſold at his Shop in <hi>Popes-head-Alley.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="chapter">
+            <pb facs="tcp:54650:2"/>
+            <pb n="1" facs="tcp:54650:2"/>
+            <head>NEW ENGLANDS FIRST FRUITS: 1. In reſpect of the INDIANS, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lord, who uſeth not to be wanting to the deſires of his Servants, as he hath not fruſtrated the ends of our Tranſplanting in ſundry other reſpects; ſo neither in the giving ſome light to thoſe poore <hi>Indians,</hi> who have ever ſate in helliſh darkneſſe, adoring the <hi>Divell</hi> himſelfe for their <hi>GOD:</hi> but hath given us ſome teſtimony of his gracious acceptance of our poore endeavours towards them<g ref="char:punc">▪</g> and of our groanes to himſelfe for mercy upon thoſe miſerable Soules (the very Ruines of Mankind) there amongſt us; our very bowels yer<g ref="char:EOLhyphen"/>ning within us to ſee them goe downe to Hell by ſwarmes with<g ref="char:EOLhyphen"/>out remedy.</p>
+            <p>Wherefore we judged it our duty no longer to conceale but to de<g ref="char:EOLhyphen"/>clare (to the praiſe of his owe free grace) what <hi>firſt Fruits</hi> he ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h begun to gather in amongſt them, as a ſure pledge (we are conſident) of a greater <hi>Harveſt</hi> in his owne time. And wonder not that wee mention no more inſtances at preſent: but conſider, Firſt their in<g ref="char:EOLhyphen"/>finite diſtance from Chriſtianity, having never been prepared there<g ref="char:EOLhyphen"/>unto by any Civility at all. Secondly, the difficulty of their Lan<g ref="char:EOLhyphen"/>guage to us, and of ours to them; there being no Rules <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o learne ei<g ref="char:EOLhyphen"/>ther by. Thirdly, the diverſity of their owne Language to it ſelfe;
+<pb n="2" facs="tcp:54650:3"/>every part of that Countrey having its own Dialect, differing much from the other; all which make their comming into the Goſpel the more ſlow. But what God hath done for ſome of them, we will declare.</p>
+            <p n="1">1. MAny years ſince at <hi>Plimmouth</hi> Plantation, when the Church did faſt and pray for Raine in extreame Drought; it being a very hot and cleare ſun-ſhine day, all the former part thereof; An <hi>Indian</hi> of good quality, being preſent, and ſeeing what they were a<g ref="char:EOLhyphen"/>bout, fell a wondring at them for praying for raine in a day ſo un<g ref="char:EOLhyphen"/>likely, when all Sunne and no Clouds appeared; and thought that their God was not able to give Raine at ſuch a time as that: but this poore wretch ſeeing them ſtill to continue in their Prayers, and be<g ref="char:EOLhyphen"/>holding that at laſt the Clouds began to riſe, and by that time they had ended their Duty, the Raine fell in a moſt ſweet, conſtant, ſoaking ſhowre, fell into wonderment at the power that the Engliſh had with their God, and the greatneſſe and goodneſſe of that God whom they ſerved, and was ſmitten with terror that he had abuſed them and their God by his former hard thoughts of them; and re<g ref="char:EOLhyphen"/>ſolved from that day not to reſt till he did know this great good <hi>God,</hi> and for that end to forſake the <hi>Indians,</hi> and cleare to the Engliſh, which he preſently did, and laboured by all publique and private meanes to ſuck in more and more of the knowledge of God, and his wayes. And as he increaſed in knowledge ſo in affection and alſo in his practice, reforming and conforming himſelfe accordingly: and (though he was much tempted by inticements, ſcoffes and ſcornes from the <hi>Indians</hi>) yet, could he never be gotten from the <hi>Engliſh,</hi> nor from ſeeking after their God, but died amongſt them, leaving ſome good hopes in their hearts, that his ſoule went to reſt.</p>
+            <p n="2">2. <hi>Sagamore Iohn,</hi> Prince of <hi>Maſſaqueſets,</hi> was from our very firſt landing more courteous, ingenious, and to the Engliſh more loving then others of them; he deſired to learne and ſpeake our Language, and loved to imitate us in our behaviour and apparrell, and began to hearken after our God and his wayes, and would much commend Engliſh-men, and their God; ſaying (<hi>Much good men, much good God</hi>) and being convinced that our condition and wayes were better farre then theirs, did reſolve and promiſe to leave the <hi>Indians,</hi> and come live with us; but yet kept downe by feare of the ſcoffes of the <hi>Indi<g ref="char:EOLhyphen"/>ans,</hi> had not power to make good his purpoſe; yet went on not with<g ref="char:EOLhyphen"/>out
+<pb n="3" facs="tcp:54650:3"/>ſome trouble of mind, and ſecret plucks of Conſcience, as the ſequel declares: for being ſtruck with death, fearfully cryed out of himſelfe that he had not come to live with us, to have knowne our <hi>God better:</hi> 
+               <q>But now (<hi>ſaid he</hi>) I muſt die, the God of the Engliſh is much angry with me, and will deſtroy me; ah, <hi>I</hi> was affraid of the ſcoffes of theſe wicked <hi>Indians;</hi> yet my Child ſhall live with the <hi>Engliſh,</hi> and learne to knew their God when I am dead; Ile give him to Mr. <hi>Wilſon,</hi> he is a much Good man, and much loved me:</q> ſo ſent for Mr. <hi>Wilſon</hi> to come to him, and committed his onely Child to his care, and ſo died.</p>
+            <p n="3">3. Divers of the <hi>Indians</hi> Children, Boyes and Girles we have re<g ref="char:EOLhyphen"/>ceived into our houſes, who are long ſince civilized, and in ſubjecti<g ref="char:EOLhyphen"/>on to us, painfull and handy in their buſineſſe, and can ſpeak our lan<g ref="char:EOLhyphen"/>guage familiarly; divers of whom can read Engliſh, and begin to un<g ref="char:EOLhyphen"/>derſtand in their meaſure, the grounds of Chriſtian Religion; ſome of them are able to give us account of the Sermons they heare, and of the word read and expounded in our Families, and are convinced of their ſinfull and miſerable Eſtates, and affected with the ſenſe of Gods diſpleaſure, and the thoughts of Eternity, and will ſometimes tremble and melt into teares at our opening and preſſing the Word upon their Conſciences; and as farre as we can diſcerne, ſome of them uſe to pray in ſecret and are much in love with us, and cannot indure to returne any more to the <hi>Indians.</hi>
+            </p>
+            <p>Some of them will not be abſent from a Sermon or Family du<g ref="char:EOLhyphen"/>ties if they can help it; and we have knowne ſome would uſe to weep and cry when detained by occaſion from the Sermon.</p>
+            <p>Others of them are very inquiſitive after God and his wayes; and being themſelves induſtrious in their Calling, will much complaine of other ſervants idleneſſe, and reprove them.</p>
+            <p>One of them, who for ſome miſdemeanour that laid him open to publique puniſhment, ran away; and being gone, God ſo followed him, that of his owne accord he returned home, rendred himſelfe to Juſtice and was willing to ſubmit himſelfe, though he might have eſcaped.</p>
+            <p>An <hi>Indian</hi> Maid at <hi>Salem,</hi> would often come from the Word, cry<g ref="char:EOLhyphen"/>ing out with abundance of teares, concluding that ſhe muſt burne when ſhe die, and would ſay, ſhe knew her ſelfe naught for preſent, and like to be miſerable for ever, unleſſe free Grace ſhould prevent it; and after this grew very carefull of her carriage, proved induſtri<g ref="char:EOLhyphen"/>ous in her place, and ſo continued.</p>
+            <pb n="4" facs="tcp:54650:4"/>
+            <p>Another often frequenting the Houſe of one of the Miniſters at <hi>Salem,</hi> would tell him the Story of the Bible, even to his admirati<g ref="char:EOLhyphen"/>on, and that he attended upon the Word preached, and loved it; and how he could tell all the Commandements, and in particular each Commandement by it ſelfe, and how he laboured to keep them all; and yet for all this (ſaid he) <hi>[Me are, and walke in fire]</hi> that is, when I die, I muſt to Hell: That Miniſter asked him why? he anſwered, becauſe I know not <hi>Ieſus Chriſt,</hi> and pray'd him earneſtly to teach him <hi>Ieſus Chriſt,</hi> and after went out amongſt the <hi>Indians,</hi> and called upon them to put away all their wives ſave one, becauſe it was a ſinne againſt Engliſh-mans Saviour.</p>
+            <p>Another <hi>Indian</hi> comming by, and ſeeing one of the Engliſh (who was remote from our juriſdiction, prophaning the Lords day, by fel<g ref="char:EOLhyphen"/>ling of a tree, ſaid to him, <hi>Doe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou not know that this is the Lords day,</hi> in <hi>Maſſaquſetts? much machet man,</hi> that is <hi>very wicked man, what, breake you Gods Day?</hi>
+            </p>
+            <p>The ſame man comming into an houſe in thoſe parts where a man and his wife were chiding, and they bidding him ſit downe, he was welcome; he anſwered, <hi>He would not ſtay there, God did not dwell there, Ho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mock,</hi> (that is <hi>the Devill</hi>) <hi>was there,</hi> and ſo departed.</p>
+            <p>One of the <hi>Sagamores,</hi> having complaint made to him by ſome of the Engliſh, that his men did uſe to kill Pigeons upon the Lords day, thereupon forbad them to doe ſo any more; yet afterwards ſome of them did attempt it, and climbing the high trees (upon which Pige<g ref="char:EOLhyphen"/>ons in that Countrey uſe to make their neſts) one of them fell down from off the tree and brake his neck, and another fell down and brake ſome of his limbs: thereupon the <hi>Sagamore</hi> ſent two grave old men to proclaime it amongſt his <hi>Indians,</hi> that none of them ſhould kill Pigeons upon the Sabboth day any more.</p>
+            <p>Another <hi>Indian</hi> hearing of the fame of the <hi>Engliſh,</hi> and their God came from a far to ſee them, and ſuch was this mans love to the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> and their wayes after he came acquainted with them, that he la<g ref="char:EOLhyphen"/>boured to transform himſelfe into the <hi>Engliſh</hi> manners and practiſes, as if he had been an Engliſh man indeed; he would be called no more by his <hi>Indian</hi> name, but would be named <hi>William;</hi> he would not goe naked like the <hi>Indians,</hi> but cloathed juſt as one of our ſelves; he ab<g ref="char:EOLhyphen"/>horred to dwell with the <hi>Indians</hi> any longer; but forſaking all his friends and Kindred dwelt wholly with us; when he ſate downe to meat with us, if thanks were given before he came in, or if he did eat
+<pb n="5" facs="tcp:54650:4"/>by himſelfe, conſtantly he would give thanks reverently and grave<g ref="char:EOLhyphen"/>ly, he frequented the word and family duties where he came, and gat a good meaſure of knowledge beyond ordinary, being a man of ſin<g ref="char:EOLhyphen"/>gular par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and would complaine that he knew not Chriſt, and with<g ref="char:EOLhyphen"/>out him, he ſaid all he did was nothing; hee was ſo zealous for the Lords day, that (as it was obſerved) if he ſaw any profaning it, he would rebuke them and threaten them to carry them to the Gover<g ref="char:EOLhyphen"/>nour.</p>
+            <p>All which things weighed, we dare not but hope, that many of them, doe belong to the Kingdome of God; and what further time may produce, we leave it to him that is excellent in Counſell, and wonderfull in working.</p>
+            <p n="4">4. There is alſo a Blackmore maid, that hath long lived at <hi>Dorche<g ref="char:EOLhyphen"/>ſter</hi> in <hi>New England,</hi> unto whom God hath ſo bleſſed the publique and private means of Grace that ſhe is not only indued with a com<g ref="char:EOLhyphen"/>petent meaſure of knowledge in the myſteries of God, and convicti<g ref="char:EOLhyphen"/>on of her miſerable eſtate by ſinne; but hath alſo experience of a ſaving work of grace in her heart, and a ſweet ſavour of Chriſt brea<g ref="char:EOLhyphen"/>thing in her; inſomuch that her ſoule hath longed to enjoy Church-fellowſhip with the Saints there, and having propounded her deſire to the Elders of the Church, after ſome triall of her taken in private, ſhe was called before the whole Church, and there did make confeſ<g ref="char:EOLhyphen"/>ſion of her knowledge in the Myſteries of Chriſt and of the work of Converſion upon her Soule: And after that there was ſuch a teſti<g ref="char:EOLhyphen"/>mony given of her blameleſſe and godly Converſation, that ſhe was admitted a member by the joynt conſent of the Church with great joy to all their hearts. Since which time, we have heard her much admiring Gods free grace to ſuch a poore wretch as ſhe was; that God leaving all her friends and Kindred ſtill in their ſinnes, ſhould caſt an eye upon her, to make her a member of Chriſt, and of the Church alſo: and hath with teares exhorted ſome other of the <hi>In<g ref="char:EOLhyphen"/>dians</hi> that live with us to embrace <hi>Ieſus Chriſt,</hi> declaring how willing he would be to receive them even as he had received her.</p>
+            <p n="5">5. The laſt inſtance we will give ſhall be of that famous Indian <hi>W<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uaſh</hi> who was a Captaine a proper man of perſon, and of a very grave and ſober ſpirit; the Story of which comming to our hands very lately, was indeed the occaſion of writing all the reſt: This man a few yeares ſince, ſeeing and beholding the mighty power of God in our Engliſh Forces, how they fell upon the <hi>Pequits,</hi> where
+<pb n="6" facs="tcp:54650:5"/>divers hundreds of them were ſlaine in an houre: The Lord, as a God of glory in great terrour did appeare unto the Soule and Con<g ref="char:EOLhyphen"/>ſcience of this poore Wretch in that very act; and though before that time he had low apprehenſions of our God, having conceived him ſo be (as he ſaid) but a <hi>Muskett<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> God or a God like unto a flye; and as meane thoughts of the Engliſh that ſerved this God that they were ſilly weake men; yet from that time he was convinced and per<g ref="char:EOLhyphen"/>ſwaded that our God was a moſt dreadfull God; and that one <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> man by the help of his God was able to ſlay and put to flight an hundred <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p>This conviction did purſue and follow him night and day, ſo that he could have no reſt or quiet becauſe hee was ignorant of the <hi>En<g ref="char:EOLhyphen"/>gliſh mans God:</hi> he went up and down bemoaning his condition, and filling every place where he came with ſighes and groanes.</p>
+            <p>Afterward it pleaſed the Lord that ſome <hi>Engliſh</hi> (well acquainted with his Language) did meet with him; thereupon as a Hart pan<g ref="char:EOLhyphen"/>ting after the water Brookes he enquired after God with ſuch inceſ<g ref="char:EOLhyphen"/>ſant diligence that they were conſtrained conſtantly for his ſatisfa<g ref="char:EOLhyphen"/>ction to ſpend more then halfe the night in converſing with him.</p>
+            <p>Afterwards he came to dwell amongſt the Engliſh at <hi>Connecticus,</hi> ſtill travelling with all his might and lamenting after the Lord: his manner was to ſmite his hand on his breaſt, and to complaine ſadly of his heart ſaying it was <hi>much machet,</hi> (that is very evill) and when any ſpake with him he would ſay <hi>Wequaſh, no God, Wequaſh no know Chriſt.</hi> It pleaſed the Lord, that in the uſe of the meanes, he grew greatly in the knowledge of Chriſt, and in the Principles of Religi<g ref="char:EOLhyphen"/>on and became thorowly reformed according to his light, hating and loathing himſelfe for his deareſt ſinnes, which were eſpecially theſe two <hi>Luſt</hi> and <hi>Revenge,</hi> this repentance for the former was te<g ref="char:EOLhyphen"/>ſtified by his temperance and abſtinence from all occaſions, or mat<g ref="char:EOLhyphen"/>ter of provocation thereunto. Secondly, by putting away all his Wives, ſaving the firſt, to whom he had moſt right.</p>
+            <p>His repentance for the latter was teſtified by an eminent degree of meekneſſe and patience, that now, if any did abuſe him, he could lie downe at their feet, and if any did ſmite him on the one cheeke, he would rather turne the other, than offend them: many trialls hee had from the <hi>Jndians</hi> in this caſe. Thirdly, by going up and downe to thoſe hee had offered violence or wrong unto, confeſſing it, and making reſtitution.</p>
+            <pb n="15" facs="tcp:54650:5"/>
+            <p>Afterwards he went amongſt the Indians, like that poore Woman of <hi>Samaria,</hi> proclaiming <hi>Chriſt,</hi> and telling them what a Treaſure he had found, inſtructing them in the knowledge of the true <hi>God</hi> and this he did with a grave and ſerious ſpirit, warning them with all faithfullneſſe to flee from the wrath to come, by breaking off their ſinnes and wickedneſſe.</p>
+            <p>This courſe of his did ſo diſturb the Devill, that ere long ſome of the Indians, whoſe hearts Satan had filled did ſecretly give him poy<g ref="char:EOLhyphen"/>ſon, which he tooke without ſuſpition: and when he lay upon his death bed, ſome Indians who were by him, wiſhed him according to the Indian manner, to ſend for <hi>Po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow</hi> (that is to ſay) a Wizzard; he told them, <hi>If Ieſus Chriſt ſay that Wequaſh ſhall live, then Wequaſh muſt live; if Ieſus Chriſt ſay that Wequaſh ſhall dye, then Wequaſh is willing to dye, and will not lengthen <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur his life by any ſuch meanes.</hi> Before he dyed, he did bequeath his Child to the godly care of the Engliſh for education and inſtruction and ſo yielded up his ſoule into <hi>Chriſt</hi> his hands.</p>
+            <p>I cannot omit the teſtimony of Mr. <hi>Sh</hi> a godly Miniſter in the <hi>Bay,</hi> that wrote to his Friend in <hi>London</hi> concerning this Story, his lines are full plain and pithy his words theſe,</p>
+            <p>
+               <hi>Wequaſh the famous Indian at the Rivers mouth is dead, and certainly in heaven; gloriouſly did the Grace of</hi> Chriſt <hi>ſhine forth in his converſation, a yeare and a halfe before his death he knew Chriſt, he loved Chriſt, he prea<g ref="char:EOLhyphen"/>ched Chriſt up and down, and then ſuffered Martyrdome for Chriſt; and when he dyed<g ref="char:punc">▪</g> he gave his ſoule to Chriſt, and his only child to the Engliſh, rejoycing in this hope, that the child ſhould know more of Chriſt then its poore Father ever did.</hi>
+            </p>
+            <p>Thus we have given you a little taſt of the ſprincklings of Gods ſpirit, upon a few Indians, but one may eaſily imagine, that here are not all that may be produced: for if a very few of us here preſent, upon very ſudden thoughts, have ſnatcht up only ſuch inſtances which came at preſent to hand, you may conveive, that if all in our Plantations (which are farre and wide) ſhould ſet themſelves to bring in the confluence of all their Obſervations together, much more might be added.</p>
+            <p>We beleeve one mean amongſt others, that hath thus farre wonne theſe poore wretches to looke after the Goſpell, hath been the deal<g ref="char:EOLhyphen"/>ings and carriages, which God hath guided the Engliſh in our Pa<g ref="char:EOLhyphen"/>tent, to exerciſe towards them: For,</p>
+            <pb n="8" facs="tcp:54650:6"/>
+            <p n="1">1. At our entrance upon the Land, it was not with violence and intruſion, but free and faire, with their conſents and allowance the chief Sagamores of all that part of the Countrey, entertaining us heartily, and profeſſed we were all much welcome.</p>
+            <p n="2">2. When any of them had poſſeſſion of, or right unto any Land we were to plant upon, none were ſuffered, (to our knowledge) to take one acre from them, but do uſe to compound with them to con<g ref="char:EOLhyphen"/>tent.</p>
+            <p n="3">3. They have had juſtice truly exerciſed towards them in all other particular acts; that as we expect right dealing from them, in caſe any of them ſhall treſpaſſe us, we ſend to their Sagamore, and he preſently rights us, or elſe we ſummon them to our Court to anſwer it; ſo if any of our men offend them, and complaint and proofe be made to any of our Magiſtrates, or the publique Court (they know) they are ſure to be righted to the utmoſt by us.</p>
+            <p n="4">4. The humanity of the Enghiſh towards them doth much gaine upon them, we being generally wary, and tender in giving them of<g ref="char:EOLhyphen"/>fenſive or harſh language, or carriage, but uſe them fairly and cour<g ref="char:EOLhyphen"/>teouſly, with loving termes, good looks and kind ſalutes.</p>
+            <p>Thus they having firſt a good eſteem of our Perſons, (ſuch of them as God intends good unto) are the ſooner brought to hearken to our words, and then to ſerve our God: wheras on the contrary, the wicked, injurious and ſcandalous carriages of ſome other Plan<g ref="char:EOLhyphen"/>tations, have bin a mean to harden choſe poore wofull ſoules againſt the Engliſh, and all Religion for their ſakes; and ſeale them up under perdition.</p>
+            <p>Yet (miſtake us not) we are wont to keep them at ſuch a diſtance, (knowing they ſerve the Devill and are led by him) as not to im<g ref="char:EOLhyphen"/>bolden them too much or truſt them too farre; though we do them what good we can. And the truth is, God hath ſo kept them, (ex<g ref="char:EOLhyphen"/>cepting that act of the Pequits, long ſince, to ſome few of our men) that we never found any hurt from them, nor could ever prove any reall intentions of evill againſt us: And if there ſhould be ſuch in<g ref="char:EOLhyphen"/>tentions and that they all ſhould combine together againſt us with all their ſtrength that they can raiſe, we ſee no probable ground at all to feare any hurt from them, they being naked men, and the numb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of them that be amongſt us not conſiderable.</p>
+            <p>Let us here g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve a touch alſo of what God hath done and is further about to doe, to divers Plantations of the Engliſh, which before that
+<pb n="9" facs="tcp:54650:6"/>time that God ſent light into our coaſts, were almoſt as darke and rude as the Indians themſelves.</p>
+            <p n="1">1. Firſt at <hi>Agamenticus</hi> (a Plantation out of our juriſdiction) to which one of our Preachers comming and labouring amongſt them, was a meanes under God, not only to ſparkle heavenly knowledge, and worke conviction and reformation in divers of them, but con<g ref="char:EOLhyphen"/>verſion alſo to Chriſt in ſome of them, that bleſſe God to this day, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver he came thither.</p>
+            <p n="2">2. Then after that, as <hi>Sauco</hi> Plantation, which is an hundred miles from us, divers of that place comming often into our coaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and hear<g ref="char:EOLhyphen"/>ing the Word preached, and ſeeing Gods goings amongſt his people there, being much affected went home and lamented amongſt their neighbours their own wofull condition, that lived like heathens without the Goſpel, when others injoyed it in great plenty: here<g ref="char:EOLhyphen"/>upon with joynt conſent two of their chiefe men were ſent in all their names earneſtly to intreat us to ſend a godly Miniſter to preach the Word unto them; which was doe accordingly, not without good ſucceſſe to the people there, and divers places about them.</p>
+            <p n="3">3. After this, towards the end of laſt Summer, foure more Planta<g ref="char:EOLhyphen"/>tions ſome of which are divers hundred miles, others of them many hundred leagues from our Plantation) hearing of the goodneſſe of God to his people in our parts, and of the light of the Goſpel there ſhining; have done even as <hi>Jacob</hi> did in the Famine time, when he heard there was bread in <hi>Egypt</hi> he haſted away his Sonnes for Corn, that they might live and not die: in like manner three ſeverall Towns in <hi>Virginia</hi> as alſo <hi>Ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bados, Chriſtophers</hi> and <hi>Antego</hi> all of them much about the ſame time, as if they had known the minds of each other did ſend Letters and Meſſengers crying out unto us as the man of <hi>Macedonia</hi> to <hi>Paul, Come and help us</hi> and th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with ſuch earneſt<g ref="char:EOLhyphen"/>neſſe, as men hunger-ſtarved and ready to die cry for bread; ſo they cry out unto us in the bowels of compasſion for the Lord Jeſus ſake to ſend them ſome helpe. They tell us in ſome of their Letters that from the one end of the Land to the other, there is none to break the <hi>bread</hi> of <hi>life</hi> unto the <hi>hungry;</hi> and thoſe that ſhould doe it, are ſo vil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that even drunkards and ſwearers, cry ſhame on them.</p>
+            <p>We had thought (but only for the ſwelling of our Diſcourſe) to have ſet down their Letters at large, which they wrote to all our Churches, which ſpake with ſuch ſtrength of reaſon and affection, that when they were read in our Congregations they prevailed with
+<pb n="18" facs="tcp:54650:7"/>us, that for their necesſity we ſpared the bread from our own mouth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſave th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir lives, and ſent two of our Miniſters for the preſent to <hi>Virginia;</hi> and when the Ships came away from them they left them in ſerious conſultation, whom to give up to the worke of Chriſt in the other three places alſo.</p>
+            <p>We heare moreover that the Indians themſelves in ſome of the places named did joyne with them in this their ſuit.</p>
+            <p>Now from what hath bin ſaid, ſee the riches of Gods free Grace in Chriſt, that is willing to impart mercy even to the worſt of men, and ſuch as are furtheſt off cry out with <hi>Paul, On the depths, &amp;c.</hi> and let heaven and earth be filled with the glorious praiſes of God for the ſame.</p>
+            <p>And if ſuch as are afarre off, why ſhould not we that are nearer preſſe in for a ſhare therin, and cry out, as <hi>Eſau</hi> did with teares to his Father, when he ſaw the blesſing going away to his young<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r brother, and himſelfe, like to loſe it: [<hi>Oh my Father h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt thou but one bleſſing, bleſſe me alſo, even me thy firſt borne, bleſſe me, oh my Father.</hi>] Elſe theſe poore Indians will certainly riſe up againſt us, and with great bold<g ref="char:EOLhyphen"/>neſſe condemn us in the great day of our accompts, when many of us here und<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r great light, ſhall ſee men come from the Eaſt and from the Weſt, and ſit down in the Kingdome of God, and our ſelves caſt out.</p>
+            <p n="2">2. Let the world know, that God led not ſo many thouſands of his people into the Wilderneſſe, to ſee a reed ſhaken with the wind, but amongſt many other ſpeciall ends, this was none of the leaſt, to ſpread the light of his bleſſed Goſpel, to ſuch as never heard the ſound of it. To ſtop the mouths of the profane that calumniate the work of God in our hands, and to ſatisfie the hearts of the Saints herin that God had ſome ſpeciall ſervice for his people there to doe, which in part alr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ady we begin to ſee, and wait upon <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vine Wiſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me,</hi> to diſcover more of his pleaſure herin, and upon his Grace to effect, which we b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leeve in his time he will ſo doe, that men ſhall ſee and know the wiſdome and power of God herin.</p>
+            <p n="3">3. Shall we touch here upon that apprehenſion which many god<g ref="char:EOLhyphen"/>ly and wiſe have conceived, and that from ſome Scriptures compa<g ref="char:EOLhyphen"/>red, and from other grounds, and paſſages of Providence collected that (as it's very probable) God meanes to carry his Goſpel weſt<g ref="char:EOLhyphen"/>ward, in theſe latter times of the world; and have thought, as the Sunne in the afternoon of the day, ſtill declines more and more to
+<pb n="19" facs="tcp:54650:7"/>the Weſt and then ſets: ſo the Goſpel (that great light of the world) though it roſe in the Eaſt, and in former ages, hath ligntened it with his beames; yet in the latter ages of the world will bend Weſtward, and before its ſetting, brighten theſe parts, with his glorious luſtre alſo.</p>
+            <p n="4">4. See how Gods wiſdome produceth glorious effects, from un<g ref="char:EOLhyphen"/>likely meanes, and make ſtreight works by crooked inſtrumen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: for who would have thought, that the chaſing away hence ſo many godly Miniſters, ſhould ſo farre have promoted the praiſes of God, and ſhould be a meane to ſpread the Goſpel, when they intend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to ruine it: they blew out their lights and they burn clearer: their ſilencing Miniſters have opened their mouths ſo wide as to ſound ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his glorious praiſes, to the uttermoſt parts of the earth, ſay with the Pſalmiſt, <hi>This is the Lords doing and it is marvelous in our eyes.</hi>
+            </p>
+            <p n="5">5. Deſpiſe not the day of ſmall things; let none ſay of us as thoſe ſcoffers did of their building <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eruſalem, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat will theſe weak <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewes <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>?</hi> but learne to adore God in all his Providence, and wait to ſee his ends.</p>
+            <p n="6">6. Lend us, we beſeech you (all you that love <hi>Zion</hi>) your prayers and helpe in heaven and earth for the furtherance of this great and glorious worke in our hands; great works need many hands, many prayers, many teares: And deſire the Lord to ſtirre up the bowels of ſome godly minded, to pitty thoſe poore Heathen that are bleeding to death to eternall death and to reach forth an hand of ſoule-mercy, to ſave ſome of them from the fire of hell by affording ſome means to maintain ſome fit inſtruments on purpoſe to ſpend their time, and give themſelves wholly to preach to theſe poore wretches<g ref="char:punc">▪</g> that as the tender <hi>Samari<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> did to the wounded man they may pitty them and g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t them healed that even their bowels may bleſſe them in the day of their viſitation, and Chriſts bowels refreſhed by their love, may ſet it on his own ſcore, and pay them all againe in the day of their accompts.</p>
+         </div>
+         <div type="chapter">
+            <pb n="12" facs="tcp:54650:8"/>
+            <head>NEW ENGLANDS FIRST FRUITS: 2. In <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſpect of the Colledge, and the proceedings of <hi>Learning</hi> therein.</head>
+            <div type="section">
+               <p n="1">1. <seg rend="decorInit">A</seg>Fter God had carried us ſafe to <hi>New-England,</hi> and wee had builded our houſes, provided neceſſaries for our liveli-hood, rear'd convenient places for Gods worſhip, and ſetled the Civill Government: One of the next things we longed for, and looked after was to advance <hi>Learning</hi> and perpetuate it to Poſterity; dreading to leave an illiterate Miniſtery to the Churches, when our preſent Miniſters ſhall lie in the Duſt. And as wee were thinking and conſulting how to effect this great Work; it pleaſed God to ſtir up the heart of one Mr. <hi>Harvard</hi> (a god<g ref="char:EOLhyphen"/>ly Gentleman, and a lover of Learning, there living amongſt us) to give the one halfe of his Eſtate (it being in all about 17<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. l.) to<g ref="char:EOLhyphen"/>wards the erecting of a Colledge and all his Library: after him ano<g ref="char:EOLhyphen"/>ther gave 300. l. others after them caſt in more, and the publique hand of the State added the reſt: the Colledge was, by common conſent, appointed to be at <hi>Cambridge,</hi> (a place very pleaſant and ac<g ref="char:EOLhyphen"/>commodate)<g ref="char:punc">▪</g> and is called (according to the name of the firſt foun<g ref="char:EOLhyphen"/>der) <hi>Harvard Colledge.</hi>
+               </p>
+               <p>The Edifice is very faire and comely within and without, having in it a ſpacious Hall; (where they daily meet at Common Lectures) Exerciſes, and a large Library with ſome Bookes to it, the gifts of
+<pb n="13" facs="tcp:54650:8"/>diverſe of our friends, their Chambers and ſtudies alſo fitted for, and poſſeſſed by the Students, and all other roomes of Office neceſſary and convenient, with all needfull Offices thereto belonging: And by the ſide of the Colledge a faire <hi>Grammar</hi> Schoole for the training up of young Schollars, and fitting of them for <hi>Academicall Learning,</hi> that ſtill as they are judged ripe, they may be received into the Colledge of this Schoole. Maſter <hi>Corlet</hi> is the Mr. who hath very well ap<g ref="char:EOLhyphen"/>proved himſelfe for his abilities dexterity and painfulneſſe in teach<g ref="char:EOLhyphen"/>ing and education of the youth under him.</p>
+               <p>Over the Colledge is maſter <hi>Dunſter</hi> placed, as Preſident, a learned conſcionable and induſtrious man, who hath ſo trained up his Pupills in the tongues and Arts, and ſo ſeaſoned them with the principles of Divinity and Chriſtianity that we have to our great comfort, (and in truth) beyond our hopes, beheld their progreſſe in Learning and godlineſſe alſo; the former of theſe hath appeared in their publique declamations in <hi>Latine</hi> and <hi>Greeke,</hi> and Diſputations Logicall and Philoſophicall, which they have beene won<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed (beſides their ordinary Exerciſes in the Colledg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-Hall) in the audience of the Magiſtrates, Miniſters, and other Schollars, for the probation of their growth in Learning, upon ſet dayes, conſtantly once every moneth to make and uphold: The latter hath been manifeſted in ſundry of them, by the ſavoury breathings of their Spirits in their godly converſation. Inſomuch that we are confident, if theſe early bloſſomes may be cheriſhed and warmed with the influence of the friends of Learning and<g ref="char:punc">▪</g> lovers of this pious worke, they will by the help of God, come to happy maturity in a ſhort time.</p>
+               <p>Over the Colledge are twelve Overſeers choſen by the generall Court, ſix of them are of the Magiſtrates, the other ſix of the Mini<g ref="char:EOLhyphen"/>ſters, who are to promote the beſt good of it and (having a power of influence into all perſons in it) are to ſee that every one be diligent and proficient in his proper place.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>2.</hi> Rules, and Precepts that are obſerv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in the Colledge.</head>
+               <p n="1">1. VVHen any Schollar is able to underſtand <hi>Tully,</hi> or ſuch like clasſicall Latine Author <hi>extempore,</hi> and make and ſpeake true Latine in Verſe and Proſe, <hi>ſuo ut a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unt M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rie;</hi> And decline per<g ref="char:EOLhyphen"/>fectly the Paradig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m's of <hi>Nounes</hi> and <hi>Verbes</hi> in the <hi>Greek</hi> tongue: Let him then and not before be capable of admisſion into the Colledge.</p>
+               <pb n="22" facs="tcp:54650:9"/>
+               <p n="2">2. Let every Student be plainly inſtructed, and earneſtly preſſed to conſider well, the maine end of his life and ſtudies is, <hi>to know God and Ieſus Chriſt which is eternall life,</hi> Joh. 17.3. and therefore to lay <hi>Chriſt</hi> in the bottome, as the only foundation of all ſound know<g ref="char:EOLhyphen"/>ledge and Learning.</p>
+               <p>And ſeeing the Lord only giveth wiſedome, Let every one ſeri<g ref="char:EOLhyphen"/>ouſly ſet himſelfe by pray<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r in ſecret to ſeeke i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of him <hi>Prov</hi> 2, 3.</p>
+               <p n="3">3. Every one ſhall ſo exerciſe himſelfe in reading the Scriptures twice a day, that he ſhall be ready to give ſuch an account of his pro<g ref="char:EOLhyphen"/>fic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncy therein, both in <hi>Theoreticall</hi> obſervations of the Language, and <hi>Log<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>,</hi> and in <hi>Practicall</hi> and ſpirituall truths, as his Tutor ſhall require, according to his ability, ſeeing <hi>the entrance of the word giveth light <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> giv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> underſtanding <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o the ſimple,</hi> Pſalm. 119.130.</p>
+               <p n="4">4 That they eſhewing all profana<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion of Gods Name, Attri<g ref="char:EOLhyphen"/>bu es, Word Ordinances and times of Worſhip, doe ſtudie with good conſcience, carefully to retaine God, and the love of his truth in heir mindes elſe let them know, that (notwithſtanding their Learning) God may give them up <hi>to ſtrong a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>uſions,</hi> and in the end <hi>to are probare minde.</hi> 2 Theſ. 2.11, 12. Rom. 1.28.</p>
+               <p n="5">5. That they ſtudiouſly red<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eme the time; obſerve the generall houres appoint<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d for all the S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udents, and the ſpeciall houres for their owne <hi>Claſſi:</hi> and then diligently attend the Lectures without any diſturbance by word or geſture. And if in any thing the doubt, they ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nquire as of their fellowes, ſo, (in caſe of <hi>Non ſatisfacti<g ref="char:EOLhyphen"/>on</hi>) modeſtly of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Tutors.</p>
+               <p n="6">6. None ſhall under any pretence whatſoever, frequent the com<g ref="char:EOLhyphen"/>pany and ſociety of ſuch men as lead an unfit, and diſſolute life.</p>
+               <p>Nor ſhall any without his Tutors leave, or (in his abſence) the call of Parents or Guardians, goe abroad to other Townes.</p>
+               <p n="7">7. Every Schollar ſhall be preſent in his Tutors chamber at the 7th. houre in the morning, immediately after the ſound of the Bell at his opening the Scripture and prayer, ſo alſo at the 5th. houre at night, and then give account of his owne private read<g ref="char:EOLhyphen"/>ing <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id in Par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icular the third, and conſtantly attend Le<g ref="char:EOLhyphen"/>ctures in the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all at the houres appointed? But if any (without neceſſary impediment) ſhall abſent himſelf from prayer or Lectures, he ſhall b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e lyable to Admonition, if he offend above once a weeke.</p>
+               <p n="8">8. If any Schollar ſhall be found to tranſgreſſe any of the Lawes of God, or the Schoole, after twice Admonition, he ſhall be lyable,
+<pb n="15" facs="tcp:54650:9"/>if not <hi>adultus,</hi> to correction, if <hi>adultus,</hi> his name ſhall be given up to the Overſeers of the Colledge, that he may bee admoniſhed at the publick monethly Act.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>3.</hi> The times and order of their Studies, unleſſe experi<g ref="char:EOLhyphen"/>ence ſhall ſhew cauſe to alter.</head>
+               <p>THe ſecond and third day of the weeke, read Lectures, as follow<g ref="char:EOLhyphen"/>eth.</p>
+               <p>To the firſt yeare at 8th. of the clock in the morning <hi>Logick,</hi> the firſt three quarters, <hi>Phyſicks</hi> the laſt quarter.</p>
+               <p>To the ſecond yeare, at the 9th. houre, <hi>Ethicks</hi> and <hi>Politicks,</hi> at con<g ref="char:EOLhyphen"/>venient diſtances of time.</p>
+               <p>To the third yeare at the 10th. <hi>Arithmetick</hi> and <hi>Geometry,</hi> the three firſt quarters, <hi>Aſtronomy</hi> the laſt.</p>
+               <p>
+                  <hi>Afternoone,</hi>
+               </p>
+               <p>The firſt yeare diſputes at the ſecond houre.</p>
+               <p>The 2d. yeare at the 3d. houre.</p>
+               <p>The 3d. yeare at the 4th. every one in his Art.</p>
+               <p>
+                  <hi>The 4th. day reads Greeke.</hi>
+               </p>
+               <p>To the firſt yeare the <hi>Etymologie</hi> and <hi>Syntax</hi> at the eight houre.</p>
+               <p>To the 2d. at the 9th. houre, <hi>Proſedia</hi> and <hi>Dialects.</hi>
+               </p>
+               <p>
+                  <hi>Afternoone.</hi>
+               </p>
+               <p>The firſt yeare at 2d. houre practice the precepts of <hi>Grammar</hi> in ſuch Authors as have variety of words.</p>
+               <p>The 2d. yeare at 3d. houre practice in <hi>Poêſy, Nonnus, Duport,</hi> or the like.</p>
+               <p>The 3d. yeare perfect their <hi>Theory</hi> before noone, and exerciſe <hi>Style, Compoſition, Imitation, Epitome,</hi> both in Proſe and Verſe, afternoone.</p>
+               <p>
+                  <hi>The fift day reads Hebrew, and the Eaſterne Tongues.</hi>
+               </p>
+               <p>
+                  <hi>Grammar</hi> to the firſt yeare houre the 8th.</p>
+               <p>To the 2d. <hi>Chaldee</hi> at the 9th. houre.</p>
+               <p>To the 3d. <hi>Syriack</hi> at the 10th. houre.</p>
+               <p>
+                  <hi>Afternoone.</hi>
+               </p>
+               <p>The firſt yeare practice in the Bible at the 2d. houre.</p>
+               <p>The 2d. in <hi>Ezra</hi> and <hi>Danel</hi> at the 3d. houre.</p>
+               <p>The 3d. at the 4th. houre in <hi>Treſtius</hi> New Teſtament.</p>
+               <p>
+                  <hi>The</hi> 6th. <hi>day reads Rhetorick to all at the</hi> 8th. <hi>houre.</hi>
+               </p>
+               <p>
+                  <hi>Declamations</hi> at the 9th. So ordered that every Scholler may de<g ref="char:EOLhyphen"/>claime
+<pb n="16" facs="tcp:54650:10"/>once a moneth. The reſt of the day <hi>vacat Rhetoricis ſtudiis. The 7th. day reads Divinity Carecheticall at the</hi> 8<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h. <hi>houre, Common places at the</hi> 9th. <hi>houre. Afternoone.</hi>
+               </p>
+               <p>The firſt houre reads hiſtory in the Winter,</p>
+               <p>The nature of plants in the Summer</p>
+               <p>The ſumme of every Lecture ſhall be examined, before the new Lecture be read.</p>
+               <p>Every Schollar, that on proofe is found able to read the Originalls of the <hi>Old</hi> and <hi>New Teſtament</hi> in to the Latine tongue, and to reſolve them <hi>Logically;</hi> withall being of godly life and converſation; And at any publick Act hath the Approbation of the Overſeers and Maſter of the Colledge is fit to be dignified with his firſt Degree.</p>
+               <p>Every Schollar that giveth up in writing a <hi>Syſtem,</hi> or <hi>Synopſis,</hi> or ſumme of <hi>Logick,</hi> Naturall and Morall <hi>Phyloſophy, Arithmetick, Geo<g ref="char:EOLhyphen"/>metry</hi> and <hi>Aſtronemy:</hi> and is ready to defend his <hi>Theſes</hi> or poſitions: withall ſkilled in the Originalls as above ſaid: and of godly life &amp; con<g ref="char:EOLhyphen"/>verſation: and ſo approved by the Overſeers and Maſter of the Col<g ref="char:EOLhyphen"/>ledge, at any publique <hi>Act,</hi> is fit to be dignified with his 2d. Degree.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>4.</hi> The manner of the late Commencement, expreſſed in a Letter ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt over from the Governour, and diverſe of the Ministers, their own words theſe.</head>
+               <p>THE Sindents of the firſt Clasſis that have beene theſe foure yeeres trained up in <hi>Univerſity-Learning</hi> (for their ripening in the know<g ref="char:EOLhyphen"/>ledge of the Tongues and Arts) and are apprved for their manners as they have kept their publick Acts in former yeares, our ſelves being preſent, at them; ſo have they lately kept two ſolemne Acts for their Commencement, when the Governour, Magiſtrates, and the Miniſters from all parts, with allſorts of Schollars, and others in great numbers were preſent, and did heare their Exerciſes; which were Latine and Greeke Orations, and Declamati<g ref="char:EOLhyphen"/>ons, and Hebrew Analaſis Grammaticall, Logicall &amp; Rhetoricall of the Pſalms: And their Anſwers and Diſputations in Logicall, Ethicall, Phyſicall and Me<g ref="char:EOLhyphen"/>taphyſicall Queſtions; and ſo were found worthy of the firſt degree, (common<g ref="char:EOLhyphen"/>ly called Batchelour) <hi>Pro more Academiarum in Anglia:</hi> Being firſt pre<g ref="char:EOLhyphen"/>ſented by the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſident to the Magiſtrates and Miniſters and by him, upon their Approbation, ſolemnly admitted unto the ſame degree, and a Booke of
+<pb n="17" facs="tcp:54650:10"/>Arts delivered into each of their hands, and power given them to read Le<g ref="char:EOLhyphen"/>ctures in the Hall upon any of the Arts, when they ſhall be thereunto called, and a liberty of ſtudying in the Library.</p>
+               <p>All things in the Colledge are at preſent, like to proceed even as wee can wiſh, may it but pleaſe the Lord to goe on with his bleſſing in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hriſt, and ſtir up the hearts of his faithfull, and able Servants in our owne Native Coun<g ref="char:EOLhyphen"/>try, and here, (as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e hath graciouſly begun) to advance this Honourable and moſt hopefull worke. The beginnings whereof and progreſſe hitherto (gene<g ref="char:EOLhyphen"/>rally) doe fill our hearts with comfort, and raiſe them up to much more expe<g ref="char:EOLhyphen"/>ctation, of the Lords goodneſſe for hereafter, for the good of poſterity, and the Churches of Chriſt Ieſus.</p>
+               <closer>
+                  <dateline>
+                     <hi>BOSTON in New-England,</hi> 
+                     <date>September the <hi>26. 1642.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <hi>Your very loving friends,</hi> &amp;c.</signed>
+               </closer>
+            </div>
+            <div type="addendum">
+               <p>A Copie of the Queſtions given and maintained by the <hi>Commencers</hi> in their publick Acts, printed in <hi>Cam<g ref="char:EOLhyphen"/>bridge</hi> in <hi>New-England,</hi> and reprinted here <hi>verbatim,</hi> as followeth.</p>
+            </div>
+         </div>
+         <div xml:lang="lat" type="chapter">
+            <pb n="18" facs="tcp:54650:11"/>
+            <head>Spectatisſimis Pietate, et Illuſtrisſimis Eximia Virtute Viris, D. <hi>Iohanni Winthropo,</hi> inclytae Maſſachu<g ref="char:EOLhyphen"/>ſetti Coloniae Gubernatori, D. <hi>Johanni Endicotto</hi> Vice-Gubernatori, D. <hi>Thom. Dudleo,</hi> D. <hi>Rich. Bellingham<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> D. <hi>Ioan. Humphrydo,</hi> D. <hi>Iſrael. Stoughton<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </head>
+            <p>Nec non Reverendis pientiffimiſque viris <hi>Ioanpi Cotton<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Ioan, Wilſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Ioan, Davenport, Tho. Weldo. Hugons Petro, Tho. Shepardo,</hi> Collegij <hi>Harvardenſis</hi> nov. <hi>Cantab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> inſpectoribus fideliſſimis, caeteriſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Magiſtratibus, &amp; Eccleſiatum <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſdem Coloniae Preſ<g ref="char:EOLhyphen"/>byteris vigilantiſſimis,</p>
+            <p>Has Theſes Philologicas, &amp; Philoſophicas, quas Deo duce, Praeſide <hi>Henrico Dunſtero</hi> palam pro virili propugnare conabuntur, (ho<g ref="char:EOLhyphen"/>noris &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bſervantiae gratia) dicant conſecranique in artibus liberalibus initiati Adoleſcentes.</p>
+            <list>
+               <item>Benjamin Woodbrigins.</item>
+               <item>Georgius Downingus.</item>
+               <item>Gulielmus Hubb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rdus.</item>
+               <item>Henricus Saltonſtall.</item>
+               <item>Iohannes Bulkleius.</item>
+               <item>Iohannes Wilſonus.</item>
+               <item>Nathaniel Bruſterus.</item>
+               <item>Samuel Belinghamus.</item>
+               <item>Tobias Bernardus.</item>
+            </list>
+            <div type="section">
+               <head>Theſes Philologicas.</head>
+               <div type="subsection">
+                  <head>GRAMMATICAS.</head>
+                  <p>
+                     <seg rend="decorInit">L</seg>Inguarum Scientia eſt utiliſſima.</p>
+                  <p>Literae non exprimunt quantum vocis Organa efferunt.</p>
+                  <p n="3">3 Haebraea <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t Linguarum Mater.</p>
+                  <p n="4">4. Con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onantes &amp; vocal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Haebreorum ſunt coaetaneae.</p>
+                  <p n="5">5. Punctationes chatepha ae <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yllabam proprie no efficiunt.</p>
+                  <p n="6">6. Linguarum Graeca eſt copioſillima</p>
+                  <p n="7">7. Lingua Graeca eſt ad acc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntus pronuntianda.</p>
+                  <p n="8">8. Lingua Latina eſt eloquentiſtima.</p>
+               </div>
+               <div type="subsection">
+                  <pb n="19" facs="tcp:54650:11"/>
+                  <head>RHETORICAS.</head>
+                  <p>RHetorica ſpecie differt a Logica.</p>
+                  <p>In <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>locutione p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſpicu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tati cedit ornatus, ornatui copia.</p>
+                  <p n="3">3. Actio primas tenet in pronuntiotione.</p>
+                  <p n="4">4. Ora<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oris eſt celare Artem.</p>
+               </div>
+               <div type="subsection">
+                  <p>LOGICAS.</p>
+                  <p>UNiverſalia non ſunt extra intellectum.</p>
+                  <p>Omnia Argumenta ſunt relata.</p>
+                  <p n="3">3. Cauſa <hi>ſine qua non</hi> non eſt peculiaris cauſa a quatuor reliquis gene<g ref="char:EOLhyphen"/>ralibus,</p>
+                  <p n="4">4. Cauſa &amp; Effectus ſunt ſimul tempore.</p>
+                  <p n="5">5. Diſſentanea ſunt aeque nota.</p>
+                  <p n="6">6. Contrarietas eſt tantum inter duo,</p>
+                  <p n="7">7. Sublato relato tollitur correlatum.</p>
+                  <p n="8">8. Genus perfectum aequaliter communicatur ſpeciebus.</p>
+                  <p n="9">9 Teſtimonium valet quantum teſtis.</p>
+                  <p n="10">10. Elenchorum doctrina in Logica non eſt neceſſaria.</p>
+                  <p n="11">11. Axioma contingens eſt, quod ita verum eſt, ut aliquando falſum eſſe poſſit.</p>
+                  <p n="12">12. Praecepta Artium debent eſſe <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>Theſes Philoſophicas.</head>
+               <div type="subsection">
+                  <head>ETHICAS.</head>
+                  <p>PHiloſophia practica eſt eruditions meta.</p>
+                  <p>Actio virtutis h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bitum antecellit.</p>
+                  <p n="3">3. Voluntas eſt virturtis moralis ſubjectum.</p>
+                  <p n="4">4. Voluntas eſt formaliter libera.</p>
+                  <p n="5">5. Prudentia virtutum difficillima.</p>
+                  <p n="6">6. Prudentia eſt virtus intellectualis &amp; moralis.</p>
+                  <p n="7">7. Juſtitia mater omnium vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tutum.</p>
+                  <p n="8">8. Mors potius ſubeunda quam aliquid culpae perpetrandum.</p>
+                  <p n="9">9. Non injuſte agit niſi qui libens agit.</p>
+                  <p n="10">10. Mentiri poteſt qui verum dicit.</p>
+                  <p n="11">11. Juveni modeſtia ſummum Oranmentum.</p>
+               </div>
+               <div type="subsection">
+                  <pb n="20" facs="tcp:54650:12"/>
+                  <head>PHYSICAS</head>
+                  <p>COrpu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> naturale mobile eſt ſubjectum Phiſicae. Materia ſecunda non poteſt exiſtere fine forma.</p>
+                  <p n="3">3. Forma eſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ccidens</p>
+                  <p n="4">4. Unius re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>non eſt niſi unica forma conſtitutiva.</p>
+                  <p n="5">5. Forma eſt principium individuationis.</p>
+                  <p n="6">6. Privatio non eſt principium internum.</p>
+                  <p n="7">7. Ex meris accidentibu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> non fit ſubſtantia.</p>
+                  <p n="8">8. Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icquid movetur abalio movecur.</p>
+                  <p n="9">9. In omni motu movens ſimul eſt cum mobili.</p>
+                  <p n="10">10. Coelum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on movetur ab intelligen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ijs.</p>
+                  <p n="11">11. Non dantur orbes in coelo.</p>
+                  <p n="12">12. Quodlibe Flemen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um habet unam ex primis qualitatibus ſibi maxime propriam.</p>
+                  <p n="13">13. Putredo in humido fit a calore externo.</p>
+                  <p n="14">14. Animanon fit extraduce.</p>
+                  <p n="15">15. Vehemens ſenſibile deſtruit ſenſum.</p>
+               </div>
+               <div type="subsection">
+                  <head>METAPHISICAS.</head>
+                  <p>OMne ens eſt bonum.</p>
+                  <p>Omme creatum eſt concretum.</p>
+                  <p n="3">3. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>icquid aecernum idem &amp; immenſum.</p>
+                  <p n="4">4. Bonum Metaphyſicum non ſuſcipit gradus.</p>
+                  <p>Thus farre hath the good hand of God favoured our beginnings: ſee whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her he hath no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> engage<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> us to wait ſtill upon his goodneſſe for the future<g ref="char:punc">▪</g> by ſuch further remarkable paſſages of his providence to our Plantation in ſuch things as theſe:</p>
+                  <p n="1">1. In ſweeping away great multitudes of the Natives by the ſmall Po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a little before we went thither, that he might make room for us th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re.</p>
+                  <p n="2">2. In giving ſuch merveilous ſafe Paſſage from firſt to laſt, to ſo many thouſands that went thither, the like hath hardly been ever obſerved in any Sea-voyages.</p>
+                  <p n="3">3. In blesſing us generally with health and ſtrength, as much as ever (we might truly ſay) more then ever in our Native Land; many that were tender and ſickly here, are ſtronger and heartier there. That wheras diverſe other Plantations have been the graves of their
+<pb n="21" facs="tcp:54650:12"/>Inhabitants and their numbers much decreaſed: God hath ſo proſ<g ref="char:EOLhyphen"/>pered the climate to us, that our bodies are hailer, and Children there born ſtronger, wherby our number is exceedingly increaſed.</p>
+                  <p n="4">4. In giving us ſuch peace and freedome from enemies, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n al<g ref="char:EOLhyphen"/>moſt all the world is on a fire that (excepting that ſhort trouble with the Pequits) we never heard of any ſound of Warres to this day. And in that Warre which we made againſt them Gods hand from heaven was ſo manifeſted, that a very few of our men, in a ſhort time purſu<g ref="char:EOLhyphen"/>ed through the Wilderneſſe, ſlew and took priſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rs about 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>00 of them, even all they could find, to the great terrour and amazement of all the Indians to this day: ſo that the name of the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>equits (as of <hi>Amaleck.</hi>) is blotted out from under heaven there being not one that is or, (as leaſt) dare call himſelfe a Pequi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <p n="5">5. In ſubduing thoſe erronious opinions carryed over from hence by ſome of the Paſſengers, which for a time infeſted our Churches peace but (through the goodneſſe of God) by conference preaching, a generall aſſembly of l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arned men, Magiſtraces timely care<g ref="char:punc">▪</g> and laſtly, by Gods own hand from heaven, in moſt remarkable ſtroaks upon ſome of the chief fomenters of them; the matter came to ſuch an happie concluſion, that moſt of the ſeduced came humbly and confeſſed their Errours in our publique Aſſembli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s and abid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o this day conſtant in the Truth; the reſt (that remained obſtinate) finding no fit market there to vent their wares, departed from us to an Iland farre off; ſome of whom alſo ſince that time, have repented and re<g ref="char:EOLhyphen"/>turned to us<g ref="char:punc">▪</g> and are received againe into our boſomes. And from that time not any unſound, unſavourie and giddie fancie have dared to lift up his head, or abide the light amongſt us.</p>
+                  <p n="6">6. In ſettling and bringing civil matters to ſuch a maturity in a ſhort time amongſt us having planted 50. Townes and Villages, built 30. or 40. Churches, and more Miniſters houſes; a Caſtle, a Colledge, Priſons, Forts, Cartwaies, Cauſies many, and all theſe upon our owne charges no publique hand reaching out any helpe: having comfort<g ref="char:EOLhyphen"/>able Houſes, Gardens, Orchards, Grounds fenced, Corne fields &amp;c. and ſuch a forme and face of a Common wealth appearing in all the Plantation, that Strangers from other parts, ſeeing how much is done in ſo few yeares, have wondred at Gods blesſing on our indea<g ref="char:EOLhyphen"/>vours.</p>
+                  <p n="7">7. In giving ſuch plenty of all manner of Food in a Wilderneſſe inſomuch, that all kinds of Fleſh amongſt the reſt, ſtore of Veniſon
+<pb n="22" facs="tcp:54650:13"/>in its ſeaſon. Fiſh, both from Sea and Freſh water. Fowle of all kinds, wild &amp; tame; ſtore of Whit-Meale, together with all ſorts of Engliſh Graine, aſwell as Indian, are plentifull amongſt us; as alſo Rootes, Herbs and Fruit, which being better digeſted by the Sun, are farre more faire pleaſant and wholſome then here.</p>
+                  <p n="8">8. In proſpering Hempe and Flaxe ſo well, that its frequently ſowen, ſpun, and woven into linnen Cloath: (and in a ſhort time may ſerve for Cordage) and ſo with Cotton-wooll, (which we may have at very reaſonable rates from the Iſlands) and our linnen Yarne, we can make Dimittees and Fuſtions for our Summer cloathing. And having a matter of a 1000. Sheep, which proſper well, to begin withall, in a competent time we hope to have wollen Cloath there made. And great and ſmall Cattel, being now very frequently killd for food; their skins will afford us Leather for Boots and Shoes, and other uſes: ſo that God is leading us by the hand into a way of cloa<g ref="char:EOLhyphen"/>thing.</p>
+                  <p n="9">9. In affording us many materialls, (which in part already are, and will in time further be improved) for Staple commodities, to ſupply all other defects: As
+<list>
+                        <item>1. Furres, Bever, Otter, &amp;c.</item>
+                        <item>2. Clapboord, Hoops, Pipeſtaves, Maſts.</item>
+                        <item>3. Engliſh Wheat and other graine for <hi>Spains</hi> and Weſt Indies; and all other proviſions for Victualling of Shippes</item>
+                        <item>4. Fiſh, as Cod, Haddock, Herrings, Mackerill, Baſſe, Sturgeon, Seales, Whales, Sea-horſe.</item>
+                        <item>5. Oyle of ſundry ſorts, of Whale, Sea-horſe, &amp;c.</item>
+                        <item>6. Pitch and Tarre, Roſen and Turpentine, having Pines, Spruce, and Pitch-trees in our Countrey to make theſe on.</item>
+                        <item>7. Hempe and Flaxe.</item>
+                        <item>8. Mineralls diſcovered and proved, as of Iron in ſundry places, Black-lead (many other in hopes) for the improving of which, we are now about to carry over Servants and inſtruments with us,</item>
+                        <item>9. (Beſides many Boates, Shallops, Hows, Lighters, Pinnaces) we are in a way of building Shippes, of an 100, 200, 300. 400. tunne, five of them are already at Sea; many more in hand at this preſent, we being much incouraged therein by reaſon of the plenty and excellencie of our Timber for that urpofe, and ſeeing all the materialls will be had there in ſhort time.</item>
+                        <pb n="23" facs="tcp:54650:13"/>
+                        <item>10. In giving of ſuch Magiſtrates, as are all of them godly men, and members of our Churches, who countenance thoſe that be good, and puniſh evill doers, that a vile perſon dares not lift up his head; nor need a godly man to hang it down, that (to Gods praiſe be it ſpoken) one may live there from yeare to yeare, and not ſee a drunkard heare an oath, or meet a begger. Now where ſinne is puniſhed, and judge<g ref="char:EOLhyphen"/>ment executed, God is wont to bleſſe that place, and protect it, <hi>Pſal.</hi> 106.30, <hi>Ier.</hi> 5.1, <hi>Ioſ.</hi> 7.25 with 8. 1. <hi>c con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ra E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>a.</hi> 20 21.</item>
+                        <item>11. In ſtoring that place with very many of his own people, and diverſe of them eminent for godlineſſe. Now where his people are, there is his preſence, and Promiſe <hi>to be in the middeſt of them, a mighty God to ſave, and to joy over them with ſinging,</hi> Zeph. 3.17.</item>
+                        <item>12. Above all our other blesſings, in planting <hi>his own Name,</hi> and <hi>precious Ordinances</hi> among us; (we ſpeak it humbly, and in his feare) our indeavour is to have all his own Inſtitutions, and no more then his own and all thoſe in their native ſimplicity without any humane dresſings; having a liberty to injoy all that God Commands, and yet urged to nothing more then he Commands. Now <hi>Where ſoever he records his Name, thither he will come and bleſſe,</hi> Ex. 20, 24.</item>
+                     </list>
+                  </p>
+                  <p>Which promiſe he eath already performed to very many ſoules in their effectuall converſion to Chriſt, and the edification of others in their holy Faith, who daily bleſſe God that ever he carried them in<g ref="char:EOLhyphen"/>to thoſe parts.</p>
+                  <p>All which blesſings named we looke upon, as an earneſt-penny of more to come. If we ſeeke his face, and ſerve his Providence, wee have no cauſe to doubt, that he for his part will faile to make ſeaſo<g ref="char:EOLhyphen"/>nable ſupplies unto us.</p>
+                  <p n="1">1 By ſome meanes to carry on to their perfection our ſtaple trades begun.</p>
+                  <p n="2">2. By Additions of Ammunition and Powder.</p>
+                  <p n="3">3. By maintenance of Schooles of Learning eſpecially the Col<g ref="char:EOLhyphen"/>ledge, as alſo additions of building to it, and furniſhing the Library.</p>
+                  <p n="4">4. By ſtirring up ſome well-minded to cloath and tranſport o<g ref="char:EOLhyphen"/>ver poore children Boyes and Girles, which may be a great mercy to their bodies and ſoules and a help to us, they being ſuper abun<g ref="char:EOLhyphen"/>dant here, and we wanting hands to carry on our trades, manufa<g ref="char:EOLhyphen"/>cture and husbandry there.</p>
+                  <p n="5">5. By ſtirring up ſome to ſhew mercy to the <hi>Indians,</hi> in affording maintenance to ſome of our godly active young Schollars, there to
+<pb n="24" facs="tcp:54650:14"/>make it their worke to ſtudie their Language converſe with them and carry light amongſt them, that ſo the Goſpell might be ſpread into thoſe darke parts of the world.</p>
+                  <p>
+                     <hi>Ob.</hi> But all your own coſt and ours alſo will be loſt, becauſe there can be no ſubſiſtence there for any long time. For,</p>
+                  <p n="1">1. Your ground is barren,</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. If you ſhould ſee our goodly Corne-fields, neere har<g ref="char:EOLhyphen"/>veſt you would anſwer this your ſelfe. Secondly, how could it be thin, that we ſhould have <hi>Engliſh</hi> Wheat at 4. <hi>s. per</hi> buſhell, and <hi>Indi<g ref="char:EOLhyphen"/>an</hi> at 2.8. and this not only for ready money, but in way of exchange. Thirdly, that in a wilderneſſe in ſo few yeares, we ſhould have corne enough for our ſelves and our friends that come over, and much to ſpare.</p>
+                  <p n="2">2 <hi>Obj.</hi> Your ground will not continue above 3. or 4 yeares to beare corne.</p>
+                  <p>
+                     <hi>Anſw.</hi> Our ground hath been ſowne and planted with corne theſe 7.10.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2. yeares already by our ſelves, and (which is more than can be ſaid here of <hi>Engliſh</hi> Land (never yet ſummer tild: but have borne corne, every yeare ſince we firſt went, and the ſame ground plant<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d as long by the <hi>Indians</hi> before, and yet have good crops upon it ſtill, and as like to continue as ever: But this is, (as many other ſlanders againſt that good Land againſt all ſenſe, reaſon and experience.</p>
+                  <p n="3">3 <hi>Obj.</hi> But you have no money there.</p>
+                  <p>
+                     <hi>Anſw.</hi> It's true we have not much, though ſome there is, but wee having thoſe ſtaple commodi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ies named, they will (ſtill as they are improved) fetch money from other parts. Ships, Fiſh, Iron, Pip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtaves. Corn, Bever, Oyle, &amp;c will help us with money and o<g ref="char:EOLhyphen"/>ther things alſo.</p>
+                  <p n="2">2 Littl money is raiſed in coyne in <hi>England,</hi> how then comes it to abound, but by this meane?</p>
+                  <p n="3">3. We can trade amongſt our ſelves by way of exchange, one com<g ref="char:EOLhyphen"/>modity for another, and ſo doe uſually.</p>
+                  <p n="4">4. <hi>Obj.</hi> You are like to want clo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hes hereafter.</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. Linnen Fuſtians Dimettees we are making already. Secondly, Sheepe are comming on for woollen cloath. Thirdly in meane time we may be ſupplied by way of trade to other parts. 4th. Cor<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>vant. Deere, Seale; and Mooſe Skins (which are beaſts as big Oxen, and their skins are buffe) are there to be had plentifully; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hich will help this way, eſpecially for ſervants cloathing.</p>
+                  <pb n="25" facs="tcp:54650:14"/>
+                  <p n="5">5. <hi>Obj.</hi> Your Winters are cold.</p>
+                  <p>
+                     <hi>Anſw.</hi> True, at ſometimes when the wind blowes ſtrong at <hi>Nor-Weſt:</hi> but it holds not long together, and then it uſeth to be ve<g ref="char:EOLhyphen"/>ry moderate for a good ſpace. Firſt the coldneſſe being not naturall (that place being 42. degrees) but accidentall. Secondly, The cold there is no impediment to health, but very wholſome for our bo<g ref="char:EOLhyphen"/>dies, inſomuch that all ſorts generally, weake and ſtrong had ſcarce ever ſuch meaſure of health in all their lives as there. Thirdly, Its not a moiſt and foggie cold, as in <hi>Holland,</hi> and ſome parts of <hi>England,</hi> but bright, cleare, and faire wether, that men are ſeldome troubled in Winter with coughes and Rheumes. Fourthly, it hinders not our imployment, for people are able to worke or travell uſually all the Winter long, ſo there is no loſſe of time, ſimply in reſpect of the cold. Fiftly good fires (wood being ſo plentifull) will make amends.</p>
+                  <p n="6">6. <hi>Ob.</hi> Many are growne weaker in their eſtates ſince they went over.</p>
+                  <p>
+                     <hi>Anſ.</hi> Are not diverſe in <hi>London</hi> broken in their Eſtates? and many in <hi>England</hi> are growne poore and thouſands goe a begging (yet wee never ſaw a beggar there) and will any taxe the City or Kingdome, and ſay they are unſubſiſtable places?</p>
+                  <p>Secondly their Eſtates now he in houſes, Lands, Horſes, Cattel, Corne &amp;c. though they have not ſo much money as they had here, and ſo cannot make appearance of their wealth to thoſe in <hi>England,</hi> yet they have it ſtill, ſo that their Eſtates are not loſt but changed.</p>
+                  <p n="3">3. Some mens Eſtates may be weaker through gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at and vaſt com<g ref="char:EOLhyphen"/>mon changes, which the firſt planters eſpecially have bin at in make<g ref="char:EOLhyphen"/>ing the place ſubſiſtable and comfortable, which now others reape the fruit of unknowne ſummes lye buried underground in ſuch a worke as that is.</p>
+                  <p n="4">4. Some may be poore (ſo we are ſure) many are rich, that carri<g ref="char:EOLhyphen"/>ed nothing at all that now have Houſe Land, Corne, Cattel, &amp;c and ſuch as carry ſomething are much encreaſed.</p>
+                  <p n="7">7. <hi>Ob.</hi> Many ſpeake evill of the place.</p>
+                  <p>
+                     <hi>Anſ.</hi> Did not ſome doe ſo of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Land of <hi>Canaan</hi> it ſelfe yet <hi>Cana<g ref="char:EOLhyphen"/>an</hi> was never the worſe and themſelves ſmarted for ſo doing. Second<g ref="char:EOLhyphen"/>ly ſome have been puniſhed there for their Delinquencies, or reſtrai<g ref="char:EOLhyphen"/>ned from their exorbitances; or diſcountenanced for their ill opi<g ref="char:EOLhyphen"/>nions and not ſufferd to vent their ſtuffe: and hence being diſpleaſ<g ref="char:EOLhyphen"/>ed take revenge by ſlanderous report. Thirdly, Let ſuch if any ſuch there be as have ought to alleadge, deale fairely and above board, and
+<pb n="26" facs="tcp:54650:15"/>come and juſtifie any thing againſt the Country to our faces while we are here to anſwer, but ſuch never yet appeared in any of our preſence to avouch any thing in this kinde, nor (we beleive) dare do it without bluſhing.</p>
+                  <p n="8">8. <hi>Ob.</hi> Why doe many come away from thence?</p>
+                  <p>
+                     <hi>Anſw.</hi> Doe not many remove from one Country to another, and yet none likes the Country the leſſe becauſe ſome depart from it? Secondly, few that we know of intend to abide here, but doe come on ſome ſpeciall buſines, and purpoſe to returne. Thirdly of them that are come hither to ſtay, (on our knowledge) ſome of the wiſeſt repent them already, and wiſh themſelves there againe. Fourthly, as ſome went thither upon ſudden undigeſted grounds, and ſaw not God leading them in their way, but were carryed by an unſtayed ſpirit, ſo have they returned upon as ſleight headleſſe, unworthy rea<g ref="char:EOLhyphen"/>ſons as they went Fiftly others muſt have elbow-roome, and can<g ref="char:EOLhyphen"/>not abide to be ſo pinioned with the ſtrict Government in the <hi>Com<g ref="char:EOLhyphen"/>mon-wealth,</hi> or Diſcipline in the Church, now why ſhould ſuch live there; as <hi>Ireland</hi> will not brooke venemous beaſts, ſo will not that Land vile perſons, and looſe livers. Sixtly, though ſome few have removed from them, yet (we may truly ſay) thouſands as wiſe as themſelves would not change their place for any other in the World.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
